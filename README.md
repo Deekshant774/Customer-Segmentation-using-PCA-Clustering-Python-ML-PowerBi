@@ -1,4 +1,4 @@
-# 👥 Customer Segmentation using PCA & Clustering
+# 👥 Customer Segmentation using PCA & Clustering 
 
 Identifying meaningful customer segments from high-dimensional transactional data using PCA, K-Means clustering, Python, and Power BI to support targeted marketing and strategic decision-making.
 
@@ -143,7 +143,7 @@ customer-segmentation/
 
 📌 PCA components were intentionally excluded from the dashboard to maintain business interpretability.
 
-![Customer Segmentation Dashboard](images/dashboard.png)
+![Customer Segmentation Dashboard](Images/dashboard.png)
 
 ---
 
