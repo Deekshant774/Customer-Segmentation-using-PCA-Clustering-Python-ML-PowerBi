@@ -143,7 +143,7 @@ customer-segmentation/
 
 📌 PCA components were intentionally excluded from the dashboard to maintain business interpretability.
 
-![Customer Segmentation Dashboard](Images/dashboard.png)
+![Customer Segmentation Dashboard](Images/Dashboard.png)
 
 ---
 
